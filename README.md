@@ -5,5 +5,3 @@
 🌱 Currently learning and honing my pentesting skills along with various programming languages.
 
 📫 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/rayen-guedria/) or drop me an email at rayenguedria12@gmail.com.
-
-Pronouns: Xin/Xon.
